@@ -1,0 +1,32 @@
+Daily Report - Monday Practice
+
+Today I worked on:
+- Python student data structure
+- Basic functions for processing and printing student information
+- Splitting project into multiple files (monday_practice.py, student_report.py)
+- Creating a simple report system using Python
+
+Completed tasks:
+- Created student dataset with dictionaries
+- Implemented basic functions (print, average calculation)
+- Generated student report with averages
+- Organized project structure
+- Prepared files for GitHub upload
+
+Not completed yet:
+- Everything planned for today is completed
+
+Biggest difficulty:
+- Understanding how to separate logic between two Python files and correctly import functions/data
+
+
+How I tried to solve it:
+- Broke code into smaller functions
+- Checked errors step-by-step in terminal
+- Followed Git commands one by one
+
+What I need to improve for Tuesday:
+- Better understanding of Python modules and imports
+- Practice more with Git (especially remote repositories)
+- Improve data manipulation skills (loops, filtering, grouping)
+- Write cleaner and more structured code

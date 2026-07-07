@@ -1,0 +1,29 @@
+Daily Report - Day 2 Practice
+
+Today I worked on:
+Today I completed a Python project that processes student data from a CSV file. I focused on reading the dataset, identifying data quality issues, cleaning incorrect or missing values, and generating useful reports.
+
+Completed tasks:
+- Read and inspected the CSV dataset.
+- Identified missing values, invalid numeric values, and inconsistent text.
+- Cleaned and standardized the data.
+- Calculated total scores, performance status, and risk flags.
+- Generated a data quality report.
+- Saved the cleaned dataset to a new CSV file.
+- Created a final summary report.
+- Wrote the project README.
+
+Not completed yet:
+- I completed all the required tasks for today's practice.
+
+Biggest difficulty:
+The biggest challenge was debugging errors caused by incorrect CSV formatting and making sure all calculations matched the expected results.
+
+How I tried to solve it:
+I reviewed the dataset carefully, tested the program after each change, used terminal output to verify the results, and corrected the code step by step until everything worked correctly.
+
+What I understood better today:
+Today I improved my understanding of working with CSV files, cleaning real-world data, using dictionaries and functions, and generating reports automatically with Python.
+
+What I need to improve for the next session:
+I want to become faster at debugging Python code, improve my problem-solving skills, and write cleaner, more organized programs.
