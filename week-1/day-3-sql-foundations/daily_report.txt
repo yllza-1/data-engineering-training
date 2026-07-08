@@ -1,0 +1,97 @@
+# Day 3 SQL Foundations Practice
+
+This project was completed as part of the Unity Tech Hub x Agility Data Engineering / Databricks Training.
+
+The purpose of this project is to practice the foundations of SQL by creating tables, inserting data, writing queries, filtering information, sorting results, and creating calculated values from existing data.
+
+## Project Overview
+
+This project contains two main parts:
+
+1. Working with an orders table provided for SQL practice.
+2. Creating a custom business table and applying SQL concepts to a real business scenario.
+
+The project demonstrates how SQL can be used to store, clean, analyze, and transform data into useful business information.
+
+## Files
+
+- **setup.sql**  
+  Creates the `orders` table and inserts sample order data.
+
+- **sql_practice.sql**  
+  Contains SQL queries for practicing data selection, filtering, sorting, limiting results, and calculated columns.
+
+- **custom_business_table.sql**  
+  Contains a custom gym membership table with inserted data and business-related SQL queries.
+
+- **pipeline_thinking.md**  
+  Explains the data pipeline process for the chosen business, including source data, ingestion, storage, cleaning, transformation, and business output.
+
+- **daily_report.txt**  
+  Contains a short summary of completed tasks, challenges, and areas for improvement.
+
+## Tools Used
+
+- SQLiteOnline.com
+- SQL
+
+## Database Concepts Practiced
+
+During this project, I practiced:
+
+- Creating databases and tables using `CREATE TABLE`
+- Removing existing tables using `DROP TABLE IF EXISTS`
+- Adding data using `INSERT INTO`
+- Retrieving data using `SELECT`
+- Selecting specific columns
+- Filtering data using `WHERE`
+- Combining conditions using `AND` and `OR`
+- Sorting results using `ORDER BY`
+- Limiting results using `LIMIT`
+- Creating calculated columns using mathematical operations
+- Using aliases with `AS`
+- Grouping and analyzing data using `GROUP BY`
+- Creating business-focused SQL queries
+
+## Table Understanding
+
+### Orders Table
+
+The `orders` table contains information about customer orders.
+
+- Each row represents one customer order.
+- Text columns include customer name, product, and status.
+- Numeric columns include order ID, quantity, and price.
+- The status column shows the current state of an order.
+- The total order value can be calculated using:
+
+`quantity * price`
+
+### Custom Business Table
+
+The custom table represents a gym membership system.
+
+It stores:
+
+- Member information
+- Membership plans
+- Monthly prices
+- Number of visits
+- Membership status
+
+## Business Purpose
+
+The SQL queries created in this project can help a business understand its data and answer questions such as:
+
+- Which orders generate the highest value?
+- Which members are active?
+- Which membership plans perform better?
+- How can business data be transformed into useful reports?
+
+## How to Run
+
+1. Open SQLiteOnline.com.
+2. Run `setup.sql` to create the orders table and insert sample data.
+3. Run `sql_practice.sql` to practice SQL queries.
+4. Run `custom_business_table.sql` to create the custom business table and analyze the data.
+5. Review `pipeline_thinking.md` and `daily_report.txt` for project documentation.
