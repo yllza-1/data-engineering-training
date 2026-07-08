@@ -1,0 +1,44 @@
+
+---
+
+### `daily_report.txt`
+
+```txt
+Daily Report - Day 4 Practice
+
+Today I worked on:
+- Comparing Python and SQL approaches for working with order data.
+- Completing filtering, sorting, calculations, and aggregation tasks.
+
+Python tasks completed:
+- Filtered orders using conditions.
+- Calculated total_amount using quantity and price.
+- Counted orders by city and category using dictionaries.
+
+SQL tasks completed:
+- Created and queried the orders table.
+- Practiced SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, and GROUP BY.
+- Calculated completed revenue excluding pending and cancelled orders.
+
+Comparison tasks completed:
+- Compared how Python loops and conditions match SQL filtering logic.
+- Explained differences between Python data processing and SQL queries.
+
+
+Unity Tech Hub x Agilyti Data Engineering / Databricks Training
+
+
+What I understood better today:
+- I understood that Python and SQL can perform similar operations but use different methods.
+- I improved my understanding of filtering, sorting, and data aggregation.
+
+What was difficult:
+- Understanding SQL aggregation functions and GROUP BY at first.
+- Making sure the Python and SQL results matched.
+
+What I need to practice more:
+- SQL GROUP BY and more complex queries.
+- Working with larger datasets.
+
+Did I use AI? If yes, how did I use it?
+- No. I used Google and other resources for research and learning.
