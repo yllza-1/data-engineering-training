@@ -1,0 +1,28 @@
+# Individual Reflection - Yllza Azemi
+
+## My role in the group:
+My role was to work on data analysis, SQL queries, and understanding the business meaning behind the data.
+
+
+## What I worked on:
+I worked on creating and analyzing the orders dataset. I created SQL queries to filter orders, calculate total amounts, calculate completed revenue, and group data by status, city, and category. I also worked on preparing business insights and presentation notes.
+
+
+## What I understood better today:
+I understood better how data can be transformed into useful business information. I learned how Python helps with data preparation and how SQL helps with querying and analyzing data from databases.
+
+
+## What was difficult for me:
+The difficult part was making sure the SQL queries were correct and understanding how each analysis result can be connected to a real business decision.
+
+
+## What I can explain live:
+I can explain the dataset structure, the SQL queries we used, how we calculated revenue, and how we found the most valuable orders.
+
+
+## What I still need to practice:
+I still need to practice writing more advanced SQL queries, improving my data analysis skills, and working with larger datasets.
+
+
+## Did I use AI? If yes, how did I use it?
+Yes, I used AI as a learning assistant to help me understand SQL concepts, improve my explanations, and check my work. I used it to learn, not to replace my own understanding.

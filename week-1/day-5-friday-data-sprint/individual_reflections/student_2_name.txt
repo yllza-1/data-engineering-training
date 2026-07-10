@@ -1,0 +1,22 @@
+# Individual Reflection - Erlis Bunjaku
+
+## My role in the group:
+My role was to help with the Python data analysis, data cleaning, and checking the accuracy of the dataset.
+
+## What I worked on:
+I worked on reading the CSV file, cleaning inconsistent data, finding data quality issues, and generating summary statistics using Python. I also helped verify the results before the final presentation.
+
+## What I understood better today:
+I understood how Python can be used to clean data, identify errors, and generate useful business insights from a dataset.
+
+## What was difficult for me:
+The most difficult part was handling inconsistent data and making sure the analysis produced accurate results.
+
+## What I can explain live:
+I can explain how the Python pipeline works, how the CSV file was processed, how data cleaning was performed, and how we generated the business report.
+
+## What I still need to practice:
+I need to practice more advanced Python programming, data analysis techniques, and working with larger datasets.
+
+## Did I use AI? If yes, how did I use it?
+Yes, I used AI as a learning assistant to understand Python concepts, improve my code, and verify my explanations. I used it to support my learning, not to replace my own work.
