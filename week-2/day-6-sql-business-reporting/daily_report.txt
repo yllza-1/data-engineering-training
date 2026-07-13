@@ -1,0 +1,34 @@
+Daily Report - Day 6 Practice
+
+Today I worked on:
+- Practiced SQL business reporting using different queries and analyzed data results.
+
+SQL setup completed:
+- Created tables and inserted sample data using setup.sql.
+
+Aggregation tasks completed:
+- Completed queries using COUNT, SUM, AVG, MIN, and MAX to calculate useful business information.
+
+GROUP BY tasks completed:
+- Created reports by grouping data based on categories and other columns to compare results.
+
+JOIN tasks completed:
+- Combined information from multiple tables using JOIN queries.
+
+Business report completed:
+- Created business reports to find important insights from the data, such as completed revenue by category.
+
+What I understood better today:
+- I understood better how SQL can be used to analyze data and create reports for business decisions.
+
+What was difficult:
+- Understanding the difference between GROUP BY, HAVING, and JOIN at first was challenging, but practicing queries helped.
+
+What I need to practice more:
+- I need to practice writing more complex JOIN queries and combining multiple SQL concepts together.
+
+Did I use AI? If yes, how did I use it?
+- Yes, I used AI to understand SQL concepts, check query logic, and improve explanations.
+
+What can I explain live without help:
+- I can explain basic aggregation, GROUP BY, HAVING, JOIN, and how SQL queries help create business reports.
