@@ -1,0 +1,56 @@
+# Daily Report - Day 7 Practice
+
+**Today I worked on:**
+
+* Fixed broken SQL queries.
+* Practiced `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, and aggregate functions.
+* Created validation queries to verify business results.
+
+**Broken queries I fixed:**
+
+* Fixed missing `GROUP BY`.
+* Fixed missing `JOIN` conditions.
+* Fixed missing commas and syntax errors.
+* Fixed incorrect filter conditions.
+* Fixed ambiguous column names.
+* Fixed query order issues.
+
+**Validation queries I completed:**
+
+* V1–V15 validation queries.
+* Verified order counts, customer counts, product counts, completed revenue, revenue by product and category, top orders, customers with multiple orders, and city activity.
+
+
+**Business numbers I verified:**
+
+* Total orders
+* Completed, pending, and cancelled orders
+* Total customers
+* Total products
+* Completed revenue
+* Revenue by product
+* Revenue by category
+* Orders by city
+* Top 3 completed orders
+* Highest revenue category
+* City with the most orders
+
+**What SQL mistake I understand better now:**
+
+* I better understand `JOIN`, `GROUP BY`, `HAVING`, and the correct order of SQL clauses.
+
+**What was difficult:**
+
+* Finding the correct table for some columns and fixing `JOIN` conditions.
+
+**What I need to practice more:**
+
+* Complex `JOIN`s, aggregate functions, and writing business reports from SQL results.
+
+**Did I use AI? If yes, how did I use it?**
+
+*No.
+
+**Can I explain my fixed queries live?**
+
+* Yes. I can explain the mistakes, the fixes, and the business meaning of each query.
