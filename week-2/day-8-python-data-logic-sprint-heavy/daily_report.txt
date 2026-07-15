@@ -1,0 +1,70 @@
+# Daily Report - Day 8 Practice
+
+## Today I worked on:
+- Analyzed the raw order dataset.
+- Validated records and separated valid and invalid orders.
+- Cleaned and normalized valid records.
+- Calculated business metrics using cleaned data.
+- Created dynamic reports using dictionaries.
+- Generated rankings for orders, customers, products, cities, categories, and channels.
+- Investigated data quality and explained the business impact of invalid data.
+
+## Python tasks completed:
+- Counted raw, valid, and invalid records.
+- Validated orders.
+- Normalized status, city, category, and channel values.
+- Calculated total_amount for cleaned records.
+- Calculated completed revenue and average order value.
+- Found highest and lowest completed orders.
+- Created top rankings using sorting.
+- Generated business reports.
+
+## Validation logic completed:
+- Detected empty customer names.
+- Detected invalid quantity values.
+- Detected invalid price values.
+- Separated valid and invalid records.
+- Generated validation summary.
+- Excluded invalid records from all business metrics.
+
+## Cleaning/normalization completed:
+- Normalized status values.
+- Normalized city names.
+- Normalized category names.
+- Normalized channel names.
+- Created cleaned copies of valid records without changing the raw dataset.
+- Added total_amount to cleaned records.
+
+## Reports generated:
+- Validation Report
+- Invalid Records Report
+- Business Metrics Report
+- Top 5 Completed Orders
+- Top Customers by Revenue
+- Top Products by Revenue
+- Top Cities by Revenue
+- Revenue by Category
+- Revenue by Channel
+- Data Quality Investigation
+- Logic Explanations
+
+## What was difficult:
+- Building dynamic reports with dictionaries.
+- Sorting dictionaries to create ranking reports.
+- Passing cleaned records correctly between functions.
+
+## What I understood better today:
+- How validation improves data quality.
+- Why cleaned data should be used for business metrics.
+- How dictionaries are used to count and sum values.
+- How sorting is used to create business rankings.
+- How functions make Python code more organized and reusable.
+
+## What I need to practice more:
+- Dictionary-based reporting.
+- Sorting with lambda functions.
+- Writing reusable Python functions.
+- Data cleaning and normalization.
+
+## Did I use AI? If yes, how did I use it?
+- I only used AI when I encountered errors to understand the problem, identify the cause, and fix the code. The implementation and final solution were completed by me.

@@ -1,0 +1,11 @@
+Order ID: 15
+Reasons: ['Empty customer_name']
+
+Order ID: 17
+Reasons: ['Quantity must be greater than 0']
+
+Order ID: 18
+Reasons: ['Quantity must be greater than 0']
+
+Order ID: 20
+Reasons: ['Price must be greater than 0']

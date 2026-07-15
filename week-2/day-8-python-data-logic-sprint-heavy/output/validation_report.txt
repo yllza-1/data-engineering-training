@@ -1,0 +1,5 @@
+Validation Summary
+
+Total orders: 24
+Valid orders: 20
+Invalid orders: 4

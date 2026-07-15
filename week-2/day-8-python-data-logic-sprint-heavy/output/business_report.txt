@@ -1,0 +1,73 @@
+Business Report
+
+Business Metrics
+----------------
+Raw records: 20
+Valid records: 16
+Invalid records: 4
+Completed orders: 10
+Non-revenue orders: 6
+Completed revenue: 8450
+Average completed order value: 845
+Highest completed order: Order ID 7 - 2400
+Lowest completed order: Order ID 11 - 45
+
+Revenue Summary
+---------------
+Revenue by city:
+Prishtina: 4200
+Peja: 1800
+Prizren: 2450
+
+Revenue by category:
+Laptops: 5000
+Accessories: 1200
+Monitors: 2250
+
+Revenue by channel:
+online: 5100
+store: 3350
+
+Revenue by customer:
+Arben: 2200
+Sara: 1800
+Besa: 1450
+
+Top Records
+-----------
+Customers with more than one valid order:
+- Arben
+- Sara
+
+Products ordered more than once:
+- Laptop
+- Mouse
+- Keyboard
+
+Data Quality Investigation
+--------------------------
+Invalid records removed because they had empty customer names, invalid quantities, or invalid prices.
+
+Valid non-revenue orders:
+6
+
+Status values before normalization:
+Completed
+complete
+Pending
+Cancelled
+
+Normalization changes:
+Completed -> completed
+complete -> completed
+Prishtine -> Prishtina
+accessories -> Accessories
+Online -> online
+
+Calculating revenue before validation would include invalid records and produce incorrect revenue totals.
+
+Counting pending, cancelled, and returned orders as revenue would overstate business revenue.
+
+Final Recommendation
+--------------------
+The business should always validate and normalize data before reporting revenue. Only completed and valid orders should be included in revenue calculations to ensure accurate business reporting.
