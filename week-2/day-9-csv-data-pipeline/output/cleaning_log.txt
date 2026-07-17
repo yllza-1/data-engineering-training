@@ -1,0 +1,9 @@
+Cleaning Log
+
+- Normalized status values.
+- Normalized city names.
+- Normalized channel values.
+- Validated customer IDs.
+- Validated product IDs.
+- Removed invalid records.
+- Calculated total_amount.

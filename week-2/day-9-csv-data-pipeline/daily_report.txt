@@ -1,0 +1,35 @@
+Daily Report - Day 9 Practice
+
+Today I worked on:
+- Built a CSV data pipeline using Python.
+- Loaded data from CSV files.
+- Validated and cleaned order records.
+- Generated data quality and business summary reports.
+
+Pipeline parts completed:
+- Loaded raw CSV files.
+- Built lookup tables.
+- Validated and cleaned orders.
+- Enriched valid orders.
+- Wrote clean and invalid CSV files.
+- Created the data quality report.
+- Created the business summary report.
+
+Most difficult part:
+- Creating the validation logic and making sure the business summary was calculated only from completed orders.
+
+One bug/error I fixed:
+- Fixed a NameError caused by using `raw_orders` instead of `orders` when creating the data quality report.
+
+What I understood better about Bronze/Silver/Gold:
+- Bronze contains the raw input data.
+- Silver contains cleaned and validated data.
+- Gold contains business-ready reports created from the cleaned data.
+
+What I need to practice more:
+- Writing reusable helper functions.
+- Data validation logic.
+- Working with dictionaries and CSV files.
+
+Did I use AI? If yes, how did I use it?
+-I only used AI to better understand the concepts of the Bronze, Silver, and Gold layers. 

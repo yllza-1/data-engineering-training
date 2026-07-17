@@ -1,0 +1,5 @@
+Revenue by Category
+
+Electronics: 1240.0
+Accessories: 264.0
+Office: 120.0
