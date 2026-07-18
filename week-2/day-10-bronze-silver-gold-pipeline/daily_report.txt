@@ -1,0 +1,45 @@
+Daily Report - Day 10 Practice
+
+Today I worked on:
+- Building a Bronze, Silver, and Gold data pipeline using Python.
+- Cleaning, validating, enriching, and reporting data from CSV files.
+
+Bronze tasks completed:
+- Loaded raw CSV files.
+- Counted raw records.
+- Kept the original data unchanged.
+
+Silver tasks completed:
+- Cleaned customer, product, and order data.
+- Normalized status, channel, city, and order date.
+- Validated customer IDs, product IDs, duplicate order IDs, quantities, and prices.
+- Created clean and invalid order files.
+- Enriched orders with customer and product information.
+- Calculated total_amount.
+
+Gold tasks completed:
+- Created revenue reports by category, city, customer, and product.
+- Generated the executive summary.
+- Generated the data quality report.
+- Created the pipeline log.
+
+What I understood better today:
+- How an ETL pipeline works from Bronze to Silver and Gold.
+- Why data validation and enrichment are important before reporting.
+- How lookup dictionaries simplify joining related data.
+
+What was difficult:
+- Implementing validation rules.
+- Handling duplicate order IDs.
+- Organizing the project into reusable functions.
+
+One result I can explain and defend:
+- I can explain how the pipeline validates raw data, enriches valid orders with customer and product information, calculates total_amount, and generates business-ready reports from clean Silver data.
+
+What I need to practice more:
+- Writing cleaner Python functions.
+- Data validation techniques.
+- Building more advanced ETL pipelines.
+
+Did I use AI? If yes, how did I use it?
+- No.

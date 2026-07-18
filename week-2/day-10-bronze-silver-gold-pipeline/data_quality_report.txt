@@ -1,0 +1,23 @@
+Validation Checks
+
+Raw orders count: 30
+Silver clean orders count: 22
+Invalid orders count: 8
+Raw = Silver + Invalid: YES
+Customer IDs checked: 30
+Product IDs checked: 30
+Duplicate order IDs found: 1
+Missing dates found: 1
+Invalid quantities found: 3
+Invalid statuses found: 1
+Invalid products found: 2
+Invalid customers found: 1
+Invalid product prices found: 0
+Missing customer cities found: 0
+
+Invalid records by reason:
+- invalid_quantity: 3
+- invalid_customer_id: 1
+- invalid_product_id: 2
+- missing_order_date: 1
+- duplicate_order_id: 1

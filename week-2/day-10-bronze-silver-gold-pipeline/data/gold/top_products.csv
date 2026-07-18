@@ -1,0 +1,9 @@
+product_name,category,total_quantity_sold,completed_revenue
+Laptop,Electronics,2,1400.0
+Mouse,Accessories,6,90.0
+Monitor,Electronics,3,540.0
+Headphones,Accessories,6,300.0
+Desk Chair,Office,3,360.0
+USB Cable,Accessories,3,24.0
+Webcam,Electronics,2,180.0
+Desk,Office,1,220.0
