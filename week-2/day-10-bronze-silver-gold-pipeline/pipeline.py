@@ -6,7 +6,6 @@ def ensure_output_folders():
     os.makedirs("data/silver", exist_ok=True)
     os.makedirs("data/gold", exist_ok=True)
 
-
 def load_csv(file_path):
     with open(file_path, "r", newline="", encoding="utf-8") as file:
         reader = csv.DictReader(file)
@@ -17,7 +16,6 @@ def write_csv(file_path, rows, fieldnames):
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
-
 
 def normalize_status(status):
     status = status.lower()
@@ -282,7 +280,6 @@ def create_revenue_by_city(orders):
         list(report.values()),
         ["city", "completed_revenue", "total_completed_orders"]
     )
-
 
 def create_revenue_by_customer(orders):
     report = {}
@@ -671,8 +668,6 @@ def main():
 )
 
     create_pipeline_log()
-
-
     create_revenue_by_channel(orders_clean)
     create_invalid_reasons_summary(invalid_orders)
     products_never_sold(clean_products_data, orders_clean)

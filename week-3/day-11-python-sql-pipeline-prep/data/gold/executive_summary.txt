@@ -1,0 +1,10 @@
+
+Executive Summary
+
+Total valid orders: 15
+
+Total invalid orders: 9
+
+Completed orders: 11
+
+Completed revenue: 2851.0
